@@ -7,6 +7,7 @@ Still updating......
 
 | Title | State | Date(v1) | Conference/Journal/Preprint | Keywords | Authors | Link(Paper,Code,My Reproduction) |
 | :--------: | :----: | :----: | :----: | :----: | :----: | :----: |
+|Generalized Domain Adaptation|Finished| 2021.06.03 |2021 CVPR|General representation, New setting, Self-supervised class-destructive learning|Yu Mitsuzumi, Go Irie, Daiki Ikami, Takashi Shibata|[paper](https://arxiv.org/abs/2106.01656)|
 |Transformer-Based Source-Free Domain Adaptation|Finished| 2021.05.28 |Preprint|SFUDA, Transformer, Close-set, Open-set, Partial-set|Guanglei Yang, Hao Tang, Zhun Zhong, Mingli Ding, Ling Shao, Nicu Sebe, Elisa Ricci|[paper](https://arxiv.org/abs/2105.14138),[code](https://github.com/ygjwd12345/TransDA)|
 |Towards Unsupervised Domain Adaptation for Deep Face Recognition under Privacy Constraints via Federated Learning|To read| 2021.05.17 |Preprint|SFUDA, Federated learning, Face recognition|Weiming Zhuang, Xin Gan, Yonggang Wen, Xuesen Zhang, Shuai Zhang, Shuai Yi|[paper](https://arxiv.org/abs/2105.07606)|
 |Visualizing Adapted Knowledge in Domain Transfer|Finished| 2021.04.20 |2021 CVPR|UDA,SFIT,Close-Set|Yunzhong Hou, Liang Zheng|[paper](https://arxiv.org/abs/2104.10602),[code](https://github.com/hou-yz/DA_visualization) |
