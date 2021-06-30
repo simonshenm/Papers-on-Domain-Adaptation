@@ -8,6 +8,7 @@ Still updating......
 | Title | State | Date(v1) | Conference/Journal/Preprint | Keywords | Authors | Link(Paper,Code,My Reproduction) |
 | :--------: | :----: | :----: | :----: | :----: | :----: | :----: |
 |Cross-domain Contrastive Learning for Unsupervised Domain Adaptation|To read|2021.06.10 |Preprint|Contrastive self-supervised learning, CDCL, Clustering-based, SFUDA|Rui Wang, Zuxuan Wu, Zejia Weng, Jingjing Chen, Guo-Jun Qi, Yu-Gang Jiang|[paper](https://arxiv.org/abs/2106.05528)|
+|Source-Free Open Compound Domain Adaptation in Semantic Segmentation|To read| 2021.06.07 |Preprint|Source-free, Open compound DA, Semantic segmentation|Yuyang Zhao, Zhun Zhong, Zhiming Luo, Gim Hee Lee, Nicu Sebe|[paper](https://arxiv.org/abs/2106.03422)|
 |Generalized Domain Adaptation|Finished| 2021.06.03 |2021 CVPR|General representation, New setting, Self-supervised class-destructive learning|Yu Mitsuzumi, Go Irie, Daiki Ikami, Takashi Shibata|[paper](https://arxiv.org/abs/2106.01656)|
 |Transformer-Based Source-Free Domain Adaptation|Finished| 2021.05.28 |Preprint|SFUDA, Transformer, Close-set, Open-set, Partial-set|Guanglei Yang, Hao Tang, Zhun Zhong, Mingli Ding, Ling Shao, Nicu Sebe, Elisa Ricci|[paper](https://arxiv.org/abs/2105.14138),[code](https://github.com/ygjwd12345/TransDA)|
 |Towards Unsupervised Domain Adaptation for Deep Face Recognition under Privacy Constraints via Federated Learning|To read| 2021.05.17 |Preprint|SFUDA, Federated learning, Face recognition|Weiming Zhuang, Xin Gan, Yonggang Wen, Xuesen Zhang, Shuai Zhang, Shuai Yi|[paper](https://arxiv.org/abs/2105.07606)|
@@ -22,4 +23,4 @@ Still updating......
 |A Free Lunch for Unsupervised Domain Adaptive Object Detection without Source Data| To read |2020.12.10 | 2021 AAAI |SFUDA, Self-entropy-based, Object dectection|Xianfeng Li, Weijie Chen, Di Xie, Shicai Yang, Peng Yuan, Shiliang Pu, Yueting Zhuang|[paper](https://arxiv.org/abs/2012.05400)|
 |Universal Source-Free Domain Adaptation|Finished| 2020.04.09 |2020 CVPR|Universal,SFUDA,Source Similarity Metric(SSM)|Jogendra Nath Kundu,Naveen Venkat,Rahul M V,R.Venkatesh Babu|[paper](https://arxiv.org/abs/2004.04393),[code](https://sites.google.com/view/usfda-cvpr2020)|
 |Discriminative Adversarial Domain Adaptation|To read| 2019.12.17 |2020 AAAI|UDA,DADA,Close-Set,Partial-Set,Open-Set|Hui Tang,Kui Jia|[paper](https://arxiv.org/abs/1911.12036),[code](https://github.com/huitangtang/DADA-AAAI2020) |
-
+|Open Compound Domain Adaptation|To read| 2019.09.08 |2020 CVPR|Open Compound DA|Ziwei Liu, Zhongqi Miao, Xingang Pan, Xiaohang Zhan, Dahua Lin, Stella X. Yu, Boqing Gong|[paper](https://arxiv.org/abs/1909.03403),[code](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA) |
