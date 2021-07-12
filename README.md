@@ -7,6 +7,7 @@ Still updating......
 
 | Title | State | Date(v1) | Conference/Journal/Preprint | Keywords | Authors | Link(Paper,Code,My Reproduction) |
 | :--------: | :----: | :----: | :----: | :----: | :----: | :----: |
+|Source-free Domain Adaptation via Avatar Prototype Generation and Adaptation|To read|2021.06.18 |2021 IJCAI|SFUDA, CPGA, Prototype generation, Prototype adaptation|Zhen Qiu, Yifan Zhang, Hongbin Lin, Shuaicheng Niu, Yanxia Liu, Qing Du, Mingkui Tan|[paper](https://arxiv.org/abs/2106.15326)|
 |Cross-domain Contrastive Learning for Unsupervised Domain Adaptation|To read|2021.06.10 |Preprint|Contrastive self-supervised learning, CDCL, Clustering-based, SFUDA|Rui Wang, Zuxuan Wu, Zejia Weng, Jingjing Chen, Guo-Jun Qi, Yu-Gang Jiang|[paper](https://arxiv.org/abs/2106.05528)|
 |Source-Free Open Compound Domain Adaptation in Semantic Segmentation|To read| 2021.06.07 |Preprint|Source-free, Open compound DA, Semantic segmentation|Yuyang Zhao, Zhun Zhong, Zhiming Luo, Gim Hee Lee, Nicu Sebe|[paper](https://arxiv.org/abs/2106.03422)|
 |Generalized Domain Adaptation|Finished| 2021.06.03 |2021 CVPR|General representation, New setting, Self-supervised class-destructive learning|Yu Mitsuzumi, Go Irie, Daiki Ikami, Takashi Shibata|[paper](https://arxiv.org/abs/2106.01656)|
